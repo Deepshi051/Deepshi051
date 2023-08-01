@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Deepshi
-- 👀 I'm a passionate Front-end Developer with a keen eye for design and a love for crafting beautiful and intuitive user experiences. I enjoy turning complex problems into simple, clean, and efficient solutions. My primary focus is on front-end development using the latest technologies to build interactive and responsive web applications.
+- 👋 Hey there, I'm Deepshi - The Front-end Wizard 🧙‍♂️
+- 🌟 Crafting Stunning Interfaces | 🎨 Designing Digital Magic | 💻 Coding Dreams into Reality
+- 🚀 Welcome to my colorful world of front-end development! I'm on a mission to create digital experiences that dazzle and delight. With a passion for pixel- perfection and a sprinkle of creativity, I bring web pages to life with a touch of magic ✨
+- 💡 Innovator by day, Dreamer by night! When the sun goes down, I'm busy dreaming up the next big thing in web design.
 - 🌱 I’m currently learning Reactjs
 - 🚀 Skills
      - Languages: HTML, CSS, JavaScript,PHP,C++
